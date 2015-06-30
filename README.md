@@ -1,5 +1,12 @@
 gulp-starter
 ============
+
+Modified for own needs.
+
+***
+
+## Original gulp-starter readme
+
 ## Revisions
 - Full asset pipeline and static html compilation
 - New directory structure
